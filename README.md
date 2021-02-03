@@ -1,2 +1,2 @@
 # poniesgitpractice
-Excercices for class, using:  of https://github.com/nbwns/exo-ponyclub
+Excercices for class, using instructions from: https://github.com/nbwns/exo-ponyclub
